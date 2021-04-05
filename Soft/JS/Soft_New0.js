@@ -1,1 +1,0 @@
-document.write("&nbsp;<a class=\"\" href=\"/Soft/ShowSoft.asp?SoftID=1\" title=\"工期\" target=\"_self\">工期</a>&nbsp;(<font color=\"red\">05-23</font>)<br />");

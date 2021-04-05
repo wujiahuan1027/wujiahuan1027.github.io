@@ -1,1 +1,0 @@
-document.write("<option value='6'>校内新闻</option><option value='7'>教育新闻</option><option value='8'>获奖信息</option>");
