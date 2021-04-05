@@ -1,0 +1,1 @@
+document.write("&nbsp;&nbsp;&nbsp;&nbsp;<a class="AnnounceBody1" href="#" onclick="javascript:window.open('/Announce.asp?ChannelID=0&ID=1', 'newwindow', 'height=440, width=400, toolbar=no, menubar=no, scrollbars=auto, resizable=no, location=no, status=no')" title="&nbsp;请看压缩包里&nbsp;">使用说明<br><div align='right'>admin&nbsp;&nbsp;<br>2006年5月24日</div></a><hr>");

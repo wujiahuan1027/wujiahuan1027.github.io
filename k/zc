@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>新模板标题</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href='/Skin/DefaultSkin.css' rel='stylesheet' type='text/css'> <script language='JavaScript' type='text/JavaScript' src='/js/menu.js'></script>
+
+</head>
+<body leftmargin=0 topmargin=0 onmousemove='HideMenu()'>
+
+</body>
+</html>
